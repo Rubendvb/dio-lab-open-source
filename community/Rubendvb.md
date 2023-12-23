@@ -10,6 +10,8 @@
 
 [![News CRUD](https://github-readme-stats.vercel.app/api/pin/?username=Rubendvb&repo=News-CRUD-V2)](https://github.com/Rubendvb/santander-dev-week-2023)
 
+[![Speedhiring New Beginnings](https://github-readme-stats.vercel.app/api/pin/?username=Rubendvb&repo=speedhiring-new-beginnings)](https://github.com/Rubendvb/speech2learning)
+
 ### 🚀 ### Languages and Tools
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rubendvb&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
